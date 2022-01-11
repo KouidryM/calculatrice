@@ -1,0 +1,33 @@
+.h1, h1{
+    color: white;
+}
+.cont{
+    width: 229px;
+    border: 2px solid;
+    border-radius: 12%;
+    background: black;
+}
+#case{
+    height: 40px;
+    width: 220px;
+    background: rgb(85, 124, 13);
+    border-radius: 10px;
+
+}
+.number{
+    margin: 2px;
+    padding: 18px;
+    border-radius: 35%;
+    background: greenyellow;
+}
+.op{
+    padding: 18px;
+    border-radius: 35%;
+    background: blueviolet;
+}
+.container{
+    justify-content: center;
+    justify-items: center;
+   
+    display:flex;
+}
